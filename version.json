@@ -1,0 +1,12 @@
+{
+    "name": "HolFin",
+    "win32": {
+        "latestVersion": "1.0.1",
+        "url": "https://"
+    },
+    "darwin": {
+        "latestVersion": "1.0.1",
+        "url": "https://github.wdf.sap.corp/I070514/holfin/archive/master.zip"
+    }
+
+}
