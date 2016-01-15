@@ -6,7 +6,7 @@
     },
     "darwin": {
         "latestVersion": "1.0.1",
-        "url": "https://github.wdf.sap.corp/I070514/holfin/archive/master.zip"
+        "url": "https://github.com/vinaybedre/holfin/raw/master/darwin/nw.pak"
     }
 
 }
